@@ -1,0 +1,9 @@
+{
+    "name": "allies-mobile-validation-example",
+    "author": "Stephen Keable from Allies Computing",
+    "description" : "Simple demo which passes a mobile phone number to the API and shows a message based on response.",
+    "version": "0.0.1",
+    "dependencies": {
+        "request": "^2.81.0"
+    }
+}
